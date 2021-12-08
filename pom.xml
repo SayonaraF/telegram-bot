@@ -12,7 +12,7 @@
 	<artifactId>telegrambot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>telegrambot</name>
-	<description>Telegram bot </description>
+	<description>Telgeram bot </description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
