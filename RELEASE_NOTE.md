@@ -4,3 +4,7 @@
 
 * added stub telegram bot
 * added Spring Boot telegram project
+
+## 0.2.0-SNAPSHOT
+
+* implements Command pattern for handling Telegram bot commands
